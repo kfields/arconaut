@@ -1,0 +1,22 @@
+{
+  "name": "arconaut",
+  "version": "1.0.0",
+  "description": "File transmission facilitator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "arco": "./bin/arco"
+  },
+  "author": "Kurtis Fields",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "koa": "^2.5.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "request": "^2.85.0",
+    "shelljs": "^0.8.2"
+  }
+}
