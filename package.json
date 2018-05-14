@@ -1,7 +1,7 @@
 {
   "name": "arconaut",
   "version": "1.0.0",
-  "description": "File transmission facilitator",
+  "description": "NPM package for deploying Node apps to remote servers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,10 @@
   },
   "author": "Kurtis Fields",
   "license": "MIT",
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/kfields/arconaut.git"
+  },
   "dependencies": {
     "archiver": "^2.1.1",
     "koa": "^2.5.1",

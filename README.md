@@ -1,3 +1,3 @@
 # Arconaut
 
-An NPM package for deploying Node apps to remote servers
+NPM package for deploying Node apps to remote servers
